@@ -1,2 +1,2 @@
-# html5-ui-angular
-html5 ui angular
+# angular-cli
+angular-cli
